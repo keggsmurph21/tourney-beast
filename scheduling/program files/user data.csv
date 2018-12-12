@@ -1,0 +1,15 @@
+username,password,tournament name,numberOfGames,2,gamesPerDay,8,start time,,number of days tournament lasts,filepath for teams,filepath for complexes,0,0,0
+kmurphy,,Liberty 2015 m,3,2,12,8,8:00,50,2,/Users/user/Documents/scheduling/program files/liberty_teams_052915.csv,/Users/user/Documents/scheduling/program files/complexes liberty csv edited.csv,0,1,0
+test_user,,Sample tournament,2,1,8,4,8:30,45,,,,0,0,1
+kmurphy,,Patriot 2015,3,2,12,8,7:00,50,,,,0,0,1
+kmurphy,,Liberty 2015 (w playoffs),3,2,12,8,8:00,50,,/Users/user/Documents/scheduling/program files/liberty_teams_052915.csv,/Users/user/Documents/scheduling/program files/complexes liberty csv.csv,0,1,1
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,make sure all the games that need to happen can happen so there aren t infinite loops,,,,,,,,,,
+,,Things to add,,make sure that I don t overwrite extra data that might be at the end of each line,,,,,,,,,,
+,,,,make gamesPerDay be a simple calculation instead of a parameter,,,,,,,,,,
+newuser,password,,,,,,,,,,,,,
+newuser2,,,,,,,,,,,,,,
+new_user3,,,,,,,,,,,,,,
+newguy,,,,,,,,,,,,,,
+kmurphy,,Liberty 2015 m,3,2,12,8,8:00,50,,/Users/user/Documents/scheduling/program files/liberty_teams_052915.csv,/Users/user/Documents/scheduling/program files/complexes liberty csv.csv,0,1,0
