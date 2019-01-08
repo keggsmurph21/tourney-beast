@@ -1,0 +1,11 @@
+game,date,time,field,bracket,round,team,score
+1,9-Jun-12,8:50 AM,1,U13B-I,1,Team One,8
+1,9-Jun-12,8:50 AM,1,U13B-I,1,Team Two,4
+2,9-Jun-12,8:50 AM,2,U13B-I,1,Team Three,
+2,9-Jun-12,8:50 AM,2,U13B-I,1,Team Four,
+3,21-Jul-12,8:00 AM,1,U15A-2,1,Team One,
+3,21-Jul-12,8:00 AM,1,U15A-2,1,Team Four ,
+4,22-Jul-12,10:00 AM,3,U15A-2,2,Team One,
+4,22-Jul-12,10:00 AM,3,U15A-2,2,Team Three,
+5,22-Jul-12,12:00 PM,1,U15A-2,2,Team Two,
+5,22-Jul-12,12:00 PM,1,U15A-2,2,Team Three,
